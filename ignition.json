@@ -1,0 +1,14 @@
+{
+	"ignitionVersion": 1,
+	"passwd": {
+		"users": [
+			{
+				"name": "core",
+				"sshAuthorizedKeys": [
+					"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAyukAK+pD6B3EkOlGtTC5Oyqx9N/1AZYqkaP0QEVn6pr+vkXlhE7CljfTT1egRGp76Ud18H3tCLDy6rhTpH5Kb+96eC8AWeKNrFbQWEjaBPbPlMUa96AeY+HXqH8JlHPkPu8k0BRVpnfeC6WKth8qU7j5CyqIH+SArKX5RvNgbqsxnR0X0XuvBKCiWt90yqnEC7JvCuznCKPeeLUOOjtf/9kYBfDIZdBKvIYxTZ7nx1WXQMeVxmsQrM29BPtZSXGhNQhDPHzIxDV8bNrXy5HXpCIQS3Qsv+T1TMgYjAl+C/1T+CW5wC+rLJTpdOjlRJThBYJw1xgQsfUIPedh3kEEpQ== eatnumber1",
+					"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDeO/8ppjLw8tl/4l+RNwTkIt2MiGgxsFCJneQabHHJg03FgYeiIcLjJDp/6L9SzAokfo2JQkVTmy4vNB53CEm2r9i/d1wwEJQ60VOH7Pu0pAiVkImW3ND7xjCltKSZm6YBB9wx8TJBEVIFSsif0vLRaBh6hCVHN+MYoESMZLj/tbRVZd5WDq2kkpK1uPyd5W+yunRy1U4UePA99l68ghhcy7kRl4pX2jBR9fNfsVKzPP0JBsiCgzrXzSJPEHD4WoCGCcl4xGYrq/YLXgclOlbXsWXDCEQ6Fi6SHvc6x7vOyCW+HVaxqyDIPRW/xbacpVZumSoGgoQEiidf02Q71953 mcsaucy"
+				]
+			}
+		]
+	}
+}
