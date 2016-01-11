@@ -1,0 +1,4 @@
+#!ipxe
+ifclose net0
+dhcp net1
+chain https://storage.googleapis.com/eatnumber1-ipxe/coreos-nodhcp.ipxe
